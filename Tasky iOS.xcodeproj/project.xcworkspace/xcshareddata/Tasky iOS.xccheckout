@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A4778EA6-EDFB-4F54-87F3-7BD9668D0378</string>
+	<string>4ED2477F-9268-4053-8842-90FD4AD2525F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Tasky iOS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3789EDF8-297A-4E44-9421-206270D0F91D</key>
-		<string>https://github.com/madebymany/Tasky.git</string>
+		<key>D23B4CE2-B33B-4445-82DB-D77BF44A6C26</key>
+		<string>https://github.com/jinjinNguyen/iOSWithCI.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Tasky iOS.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3789EDF8-297A-4E44-9421-206270D0F91D</key>
+		<key>D23B4CE2-B33B-4445-82DB-D77BF44A6C26</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/madebymany/Tasky.git</string>
+	<string>https://github.com/jinjinNguyen/iOSWithCI.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3789EDF8-297A-4E44-9421-206270D0F91D</string>
+	<string>D23B4CE2-B33B-4445-82DB-D77BF44A6C26</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3789EDF8-297A-4E44-9421-206270D0F91D</string>
+			<string>D23B4CE2-B33B-4445-82DB-D77BF44A6C26</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Tasky</string>
+			<string>iOS_CI</string>
 		</dict>
 	</array>
 </dict>
