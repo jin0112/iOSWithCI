@@ -376,8 +376,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Michael Nguyen (6377A6RM9B)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michael Nguyen (6377A6RM9B)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -404,7 +404,7 @@
 				GCC_PREFIX_HEADER = "Tasky iOS/Tasky iOS-Prefix.pch";
 				INFOPLIST_FILE = "Tasky iOS/Tasky iOS-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "B784123E-EBCF-4DF4-B44E-ACA8D66ADB74";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Testflight;
@@ -421,8 +421,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Michael Nguyen (6377A6RM9B)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michael Nguyen (6377A6RM9B)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -454,8 +454,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Michael Nguyen (6377A6RM9B)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Michael Nguyen (6377A6RM9B)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -482,7 +482,7 @@
 				GCC_PREFIX_HEADER = "Tasky iOS/Tasky iOS-Prefix.pch";
 				INFOPLIST_FILE = "Tasky iOS/Tasky iOS-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "B784123E-EBCF-4DF4-B44E-ACA8D66ADB74";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -500,7 +500,7 @@
 				GCC_PREFIX_HEADER = "Tasky iOS/Tasky iOS-Prefix.pch";
 				INFOPLIST_FILE = "Tasky iOS/Tasky iOS-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "B784123E-EBCF-4DF4-B44E-ACA8D66ADB74";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
